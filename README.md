@@ -3,14 +3,14 @@
 ---
 
 ### Acerca de mí
-Soy Martin Archanco, un desarrollador de software con una gran pasión por crear soluciones innovadoras y resolver problemas complejos. Me entusiasma aprender constantemente y explorar nuevas tecnologías para mejorar mis habilidades y contribuir a proyectos significativos.
+Soy Martin Archanco, un desarrollador de software con una gran pasión por crear soluciones innovadoras y resolver problemas complejos. Me gusta aprender constantemente y explorar nuevas tecnologías para mejorar mis habilidades.
 
 ---
 
 ### Mis intereses como desarrollador
-Mis principales intereses se centran en aprender mas en el desarrollo **back-end**, de interfaces para criptomonedas. 
+Mis principales intereses se centran en aprender mas en el desarrollo **front-end** de interfaces para criptomonedas. 
 
-También trabajo mucho con **back-end** y las bases de datos, utilizando **Node.js** y **Python** para crear APIs robustas y escalables. La combinación de estos dos campos me permite tener una visión completa del proceso de desarrollo de una aplicación, de principio a fin.
+También trabajo mucho con **back-end** y bases de datos, utilizando **Python** y **Node.js** para crear APIs robustas y escalables. La combinación de estos dos campos me permite tener una visión completa del proceso de desarrollo de una aplicación y quiero aprender mas en el ambito de criptomonedas.
 
 ---
 
